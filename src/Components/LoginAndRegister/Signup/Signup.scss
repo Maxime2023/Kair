@@ -1,0 +1,60 @@
+.signupForm {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 30%;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 2%;
+    .setEmailSignup {
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: center;
+    }
+    
+    .setPasswordSignup {
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: center;
+    }
+    .signupTitle  {
+        text-align: center;
+    }
+    .mailAdressTitleSignup {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .passwordTitleSignup {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .passwordConfirmSignup {
+        text-align: left;
+    }
+    .passwordDiff {
+        color: red;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .SignupButtonForm {
+        margin-top: 5%;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .confirmationCodeButton {
+        margin-top: 2%;
+    }
+    .connexionError {
+        color: red;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .registerDoneWithCode {
+        color: green;
+    }
+    .registerDoneWithCodeError {
+        color: red;
+    }
+}
+

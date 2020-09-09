@@ -1,0 +1,41 @@
+.loginForm {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 2%;
+    .setEmail {
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: center;
+    }
+    
+    .setPassword {
+        padding-left: 5%;
+        padding-right: 5%;
+        text-align: center;
+    }
+    .loginTitle  {
+        text-align: center;
+    }
+    .mailAdressTitle {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .passwordTitle {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .LoginButtonForm {
+        margin-top: 5%;
+        width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .noAccountYet {
+        text-align: center;
+        color: grey;
+    }
+}
+

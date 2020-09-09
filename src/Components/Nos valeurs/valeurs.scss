@@ -1,0 +1,70 @@
+.title {
+    text-align: center;
+    margin: 2%;
+    font-size: 30px;
+
+}
+.subtitle {
+    text-align: center;
+    margin: 1%;
+    font-size: 20px;
+    margin-bottom: 7%;
+    
+}
+.wrapper-valeur {
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+    .val1 {
+        width: 50%;
+        .modif {
+            width: 10%;
+        }
+        .val1txt {
+            display: inline-block;
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 10%;
+            
+        }
+    }
+    .val2 {
+        width: 50%;
+        .val2txt {
+            display: inline-block;
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 10%;
+            
+        }
+    }
+    width: 88%;
+    margin-left: 6%;
+}
+
+.wrapper-team {
+    width: 88%;
+    margin-left: 6%;
+    text-align: center;
+    .team1 {
+        display: flex;
+        margin-bottom: 1%;
+        .profile {
+            width: 20%;
+        }
+    }
+    .team2 {
+        display: flex;
+        margin-bottom: 1%;
+        .profile {
+            width: 30%;
+        }
+    }
+
+}
+.ship {
+    margin-left: 6%;
+    .ship {
+        margin-left: 6%;
+    }
+}
