@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Kair/static/css/main.44e3556c.chunk.css",
+    "main.css": "/Kair/static/css/main.5668a9bb.chunk.css",
     "main.js": "/Kair/static/js/main.931bc55d.chunk.js",
     "main.js.map": "/Kair/static/js/main.931bc55d.chunk.js.map",
     "runtime-main.js": "/Kair/static/js/runtime-main.616d8f3b.js",
@@ -9,10 +9,10 @@
     "static/js/2.98ed862a.chunk.js": "/Kair/static/js/2.98ed862a.chunk.js",
     "static/js/2.98ed862a.chunk.js.map": "/Kair/static/js/2.98ed862a.chunk.js.map",
     "index.html": "/Kair/index.html",
-    "precache-manifest.12f42df8898eb4e672fb79b1927a43cc.js": "/Kair/precache-manifest.12f42df8898eb4e672fb79b1927a43cc.js",
+    "precache-manifest.6c838c6d52380435f036946e7ee6c1da.js": "/Kair/precache-manifest.6c838c6d52380435f036946e7ee6c1da.js",
     "service-worker.js": "/Kair/service-worker.js",
     "static/css/2.e10332d9.chunk.css.map": "/Kair/static/css/2.e10332d9.chunk.css.map",
-    "static/css/main.44e3556c.chunk.css.map": "/Kair/static/css/main.44e3556c.chunk.css.map",
+    "static/css/main.5668a9bb.chunk.css.map": "/Kair/static/css/main.5668a9bb.chunk.css.map",
     "static/js/2.98ed862a.chunk.js.LICENSE.txt": "/Kair/static/js/2.98ed862a.chunk.js.LICENSE.txt",
     "static/media/fbb.png": "/Kair/static/media/fbb.04de1dfc.png",
     "static/media/fill.png": "/Kair/static/media/fill.bd8fd174.png",
@@ -42,7 +42,7 @@
     "static/js/runtime-main.616d8f3b.js",
     "static/css/2.e10332d9.chunk.css",
     "static/js/2.98ed862a.chunk.js",
-    "static/css/main.44e3556c.chunk.css",
+    "static/css/main.5668a9bb.chunk.css",
     "static/js/main.931bc55d.chunk.js"
   ]
 }

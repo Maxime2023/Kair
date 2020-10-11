@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab677e15995e545397e2581a97b44654",
+    "revision": "c353e3fcdd57239c0e907e49005fab85",
     "url": "/Kair/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kair/static/css/2.e10332d9.chunk.css"
   },
   {
-    "revision": "7a293d5d312792720b82",
-    "url": "/Kair/static/css/main.44e3556c.chunk.css"
+    "revision": "cc123a19d29de19095d6",
+    "url": "/Kair/static/css/main.5668a9bb.chunk.css"
   },
   {
     "revision": "c9f1373eb7da5a13cd89",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kair/static/js/2.98ed862a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a293d5d312792720b82",
+    "revision": "cc123a19d29de19095d6",
     "url": "/Kair/static/js/main.931bc55d.chunk.js"
   },
   {
