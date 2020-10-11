@@ -18,3 +18,29 @@
         font-size: 28px;
     }
 }
+.main-product {
+    background-color: #f8f8f8;
+    width: 84%;
+    margin-left: 8%;
+    text-align: center;
+    display: flex;
+    margin-top: 50px;
+    .m1 {
+        width: 50%;
+    }
+    .m2 {
+        width: 50%;
+    }
+    .stars {
+        display: flex;
+        text-align: center;
+        .s {
+            margin-right: 100px;
+            margin-left: 100px;
+        }
+    }
+}
+.text {
+    text-align: center;
+    font-size: 28px;
+}

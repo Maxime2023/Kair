@@ -12,6 +12,7 @@
     "react-player": "^2.6.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
+    "react-stars": "^2.2.5",
     "sass": "^1.26.10"
   },
   "scripts": {

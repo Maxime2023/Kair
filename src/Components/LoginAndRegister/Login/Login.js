@@ -15,7 +15,7 @@ export default () => {
   
   if (!loggedIn) {
   return (
-<div>
+<div className="wrapper-all">
     <div className="loginForm">
       <Form>
         <h1 className="loginTitle">Se connecter</h1>

@@ -1,9 +1,20 @@
 .menu {
   width: 100%;
-
+  // margin-bottom: 200px;
+  z-index: 200;
 }
 .zeub {
   position: fixed;
   width: 100%;
+  // margin-bottom: 200px;
+  margin: 20%;
+}
+
+.ant-menu-item .ant-menu-item-only-child .menuitem-overflowed {
+  margin-left: 40%;
+}
+.jul {
+  display: block;
+
 
 }

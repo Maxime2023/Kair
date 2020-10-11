@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import img1 from "../images/val4.png";
 import img2 from "../images/val2.png";
+import {
+    BrowserRouter as Router,
+    Link
+  } from "react-router-dom";
 import "./valeurs.scss"
 import e1 from "../images/p1.png";
 import e2 from "../images/p2.png";
@@ -12,10 +16,12 @@ import e7 from "../images/p7.png";
 import e8 from "../images/p8.png";
 import e9 from "../images/p9.png";
 import ship from "../images/ship.png"
+import fbb from "../images/fbb.png"
 import footer from "../images/footer.png"
 
 class valeurs extends Component {
     render() {
+        localStorage.setItem("trans", false)
         return (
             <div>
                 <div className="title">
@@ -115,10 +121,15 @@ class valeurs extends Component {
                         </div>
                     </div>
                 </div>
+            <div>
+                <a href="https://www.facebook.com/K-air-110057077526665" target="_blank">
+                     <img src={fbb} style={{width: "100%"}} alt="e1" />
+                </a>
+            </div>
             <div style={{marginLeft: "6%", marginTop: "3%"}}classname="ship">
-          
                 <img classname="ship"src={ship} alt="zebi"></img>
             </div>
+
             <div>
                      <img style={{width: "100%"}}src={footer} alt="zebi2"></img>
             </div>

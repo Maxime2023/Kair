@@ -25,21 +25,18 @@ class App extends Component {
       <div className="menu">
         <Router>
         <Menu mode={"horizontal"} className="zeub" style={{marginTop: "-30px", padding: "1%", width: "100%"}}>
-{/*          
-            <Menu.Item>
-              <img style={{width: "2%"}} src={Logo}/>
-            </Menu.Item> */}
-      
-    
-        <Menu.Item>
+      <Menu.Item className="jul">
+        <img style={{height: "auto", width: "80px", marginRight: "300px"}}src={Logo}/>
+      </Menu.Item>
+        <Menu.Item style={{marginRight: "170px"}}>
             <Link to="/Produit"> Les produits</Link>
           </Menu.Item>
-          <Menu.Item>
+          <Menu.Item style={{marginRight: "170px"}}>
             <Link to="/Technologies">
               Technologies
             </Link>
           </Menu.Item>
-          <Menu.Item>
+          <Menu.Item style={{marginRight: "300px"}}>
             <Link to="/valeurs">
               Nos Valeurs
             </Link>
@@ -53,7 +50,6 @@ class App extends Component {
             <ShoppingOutlined/>
           </Menu.Item>
         </Menu>
-
         <Switch>
           <Route path="/produit">
             <Produit />
@@ -66,6 +62,9 @@ class App extends Component {
           </Route>
           <Route path="/valeurs">
             <Valeurs/>
+          </Route>
+          <Route path="/">
+            <Produit/>
           </Route>
         </Switch>
 
