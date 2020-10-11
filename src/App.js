@@ -25,8 +25,8 @@ class App extends Component {
       <div className="menu">
         <Router>
         <Menu mode={"horizontal"} className="zeub" style={{marginTop: "-30px", padding: "1%", width: "100%"}}>
-      <Menu.Item className="jul">
-        <img style={{height: "auto", width: "80px", marginRight: "300px"}}src={Logo}/>
+      <Menu.Item className="jul"  style={{marginRight: "370px"}}>
+        {/* <img style={{height: "auto", width: "80px", marginRight: "300px"}}src={Logo}/> */}KAIR
       </Menu.Item>
         <Menu.Item style={{marginRight: "170px"}}>
             <Link to="/Produit"> Les produits</Link>
