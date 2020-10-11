@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c3af3d6c687329446a3439f701fc021",
+    "revision": "ab677e15995e545397e2581a97b44654",
     "url": "/Kair/index.html"
   },
   {
-    "revision": "8b049ef9a35e9f30ee43",
+    "revision": "c9f1373eb7da5a13cd89",
     "url": "/Kair/static/css/2.e10332d9.chunk.css"
   },
   {
-    "revision": "60ee78bbfafe751acc8d",
+    "revision": "7a293d5d312792720b82",
     "url": "/Kair/static/css/main.44e3556c.chunk.css"
   },
   {
-    "revision": "8b049ef9a35e9f30ee43",
-    "url": "/Kair/static/js/2.da5a7799.chunk.js"
+    "revision": "c9f1373eb7da5a13cd89",
+    "url": "/Kair/static/js/2.98ed862a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Kair/static/js/2.da5a7799.chunk.js.LICENSE.txt"
+    "url": "/Kair/static/js/2.98ed862a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60ee78bbfafe751acc8d",
-    "url": "/Kair/static/js/main.c7b53cf3.chunk.js"
+    "revision": "7a293d5d312792720b82",
+    "url": "/Kair/static/js/main.931bc55d.chunk.js"
   },
   {
     "revision": "727d19e5304244bb155c",
