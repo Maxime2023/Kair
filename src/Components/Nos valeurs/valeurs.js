@@ -15,9 +15,9 @@ import e6 from "../images/p6.png";
 import e7 from "../images/p7.png";
 import e8 from "../images/p8.png";
 import e9 from "../images/p9.png";
-import ship from "../images/ship.png"
+import ship from "../images/ship_e.png"
 import fbb from "../images/fbb.png"
-import footer from "../images/footer.png"
+import footer from "../images/footer_e.png"
 
 class valeurs extends Component {
     render() {
@@ -25,67 +25,69 @@ class valeurs extends Component {
         return (
             <div>
                 <div className="title">
-                    Fabriqué en france
+                    Made in France
                 </div>
                 <div className="subtitle">
-                    Un savoir faire francais de qualité
+                    French Expertise
                 </div>
                 <div className="wrapper-valeur">
                     <div className="val1">
                         <img src={img1} alt="Logo" />
                         <div className="val1txt">
-                            Pour vous, KAIR développe, élabore et fabrique depuis sa création en 2020 tous ses produits en France.
-                            Nous tenons à remercier toutes les personnes qui travaillent chaque jour et donnent le meilleur d'elles-mêmes pour protéger votre santé.
-                            Nous avons donc sollicité les meilleurs artisans engagés et les ateliers de création les plus pointus de la création à la confection du masque. 
-                            Notre objectif : élaborer le produit le plus abouti et le plus qualitatif.
+                        K-air developps and produces, since its creation in 2020, 
+                        all of its products in France. We would like to thank every
+                         member of our team, those people working everyday, giving 
+                         everything they have to garanty everyone’s health. We
+                          therefore recruted the elite of workshop workers to 
+                          produce our masks. Our objective : create a product at
+                           the top of its capabilities. 
                         </div>
                     </div>
                     <div className="val2">
                         <img src={img2} alt="Logo" />
                         <div className="val2txt">
-                            Ainsi, le programme de recherche et développement ainsi que les essais de matériaux ont été réalisés en partenariat avec des ingénieurs de l'Institut National des Arts et Métiers et des laboratoires européens indépendants. 
-                            Il est également essentiel pour nous de travailler en collaboration avec les ESAT sur l'emballage de nos produits.
-                            Nous pensons qu'il est possible de proposer un produit technologique et innovant qui respecte tous les acteurs, que ce soit dans le choix des matériaux, le processus de fabrication et les conditions de réalisation.
+                        Thus, the research and development program as well as the material tests were carried out in partnership with engineers from the National Institute of Arts and Crafts and independent European laboratories. It is also essential for us to work in collaboration with ESATs on the packaging of our products. We believe that it is possible to offer a technological and innovative product that respects all stakeholders, whether in the choice of materials, the manufacturing process and the conditions of realization. 
+
                         </div>
                     </div>
                 </div>
-                <div className="title">L'equipe</div>
-                <div className="subtitle">Un objectif commun</div>
+                <div className="title">Our team </div>
+                <div className="subtitle">A common goal </div>
                 <div className="wrapper-team">
                     <div className="team1">
                         <div className="profile">
                             <img src={e1} alt="e1" />
                             <div className="name">
                                 Maxime Dizier 
-                                <div className="post"> Web Développeur</div>
+                                <div className="post"> Web Dev</div>
                             </div>
                         </div>
                         <div className="profile">
                             <img src={e2} alt="e1" />
                             <div className="name">
                                 Olivier Cretot
-                                <div className="post"> Embarqué </div>
+                                <div className="post"> Embarqued </div>
                             </div>
                         </div>
                         <div className="profile">
                             <img src={e3} alt="e1" />
                             <div className="name">
                                 Théo Jeanningros
-                                <div className="post"> Base de donnée </div>
+                                <div className="post"> Database </div>
                             </div>
                         </div>
                         <div className="profile">
                             <img src={e4} alt="e1" />
                             <div className="name">
                                 Bryan Fortin 
-                                <div className="post"> Embarqué </div>
+                                <div className="post"> Embarqued </div>
                             </div>
                         </div>
                         <div className="profile">
                             <img src={e5} alt="e1" />
                             <div className="name">
                                 Francois Machere
-                                <div className="post"> Développeur IOS </div>
+                                <div className="post"> IOS dev </div>
                             </div>
                         </div>
 
@@ -102,7 +104,7 @@ class valeurs extends Component {
                             <img src={e7} alt="e1" />
                             <div className="name">
                                 Hugo Chantelot
-                                <div className="post"> Stagiaire en Marketing </div>
+                                <div className="post"> Markeing Intern </div>
                             </div>
                         </div>
                         <div className="profile">
@@ -116,7 +118,7 @@ class valeurs extends Component {
                             <img src={e9} alt="e1" />
                             <div className="name">
                                 Julien Dolle
-                                <div className="post"> Base de donnée </div>
+                                <div className="post"> Database </div>
                             </div>
                         </div>
                     </div>

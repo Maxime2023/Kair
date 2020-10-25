@@ -29,7 +29,7 @@ class App extends Component {
         {/* <img style={{height: "auto", width: "80px", marginRight: "300px"}}src={Logo}/> */}KAIR
       </Menu.Item>
         <Menu.Item style={{marginRight: "170px"}}>
-            <Link to="/Produit"> Les produits</Link>
+            <Link to="/Produit"> Products</Link>
           </Menu.Item>
           <Menu.Item style={{marginRight: "170px"}}>
             <Link to="/Technologies">
@@ -38,7 +38,7 @@ class App extends Component {
           </Menu.Item>
           <Menu.Item style={{marginRight: "300px"}}>
             <Link to="/valeurs">
-              Nos Valeurs
+              Our Values
             </Link>
           </Menu.Item>
           <Menu.Item>

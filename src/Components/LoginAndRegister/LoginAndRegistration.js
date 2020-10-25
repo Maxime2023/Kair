@@ -3,7 +3,7 @@ import Login from "./Login/Login";
 import Signup from "./Signup/Signup";
 import { Button } from "antd";
 import './LoginAndRegistration.scss';
-import footer from '../images/footer.png'
+import footer from '../images/footer_e.png'
 import white from '../images/white.png'
 
 export default () => {

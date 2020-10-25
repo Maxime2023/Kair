@@ -4,8 +4,8 @@ import i1 from "../images/filtres.png";
 import i2 from "../images/housse.png";
 import i3 from "../images/sac.png";
 import logo from "../images/logo page.png";
-import footer from "../images/footer.png";
-import ship from "../images/ship.png"
+import footer from "../images/footer_e.png";
+import ship from "../images/ship_e.png"
 import ReactPlayer from 'react-player'
 import sample from '../images/trailer.mp4';
 import Mask from '../images/masssk.png';
@@ -32,10 +32,10 @@ class Produit extends Component {
         return (
             <div>
                 <div className="produit-wrapper">
-                    Produits
+                    Products 
                 </div>
                 <div>
-                    Produits
+                    Products 
                 </div>
                 <div className="pro">
                         <img src={logo} style={{width: "100%", marginTop: "-200px"}}alt="zebi"></img>
@@ -44,23 +44,23 @@ class Produit extends Component {
                     <img src={Mask} style={{width: "30%", marginTop: "-200px",marginLeft: "35%"}}alt="zebi"></img>
 
                 </div>
-                <div className="text">Le masque</div>
-                <div style={{width: "20%", marginLeft: "40%"}}><Button onClick={this.handleClick}>Me le procurer dès maintenant</Button></div>
+                <div className="text">The mask</div>
+                <div style={{width: "20%", marginLeft: "40%"}}><Button onClick={this.handleClick}>Get it now</Button></div>
                 <div className="products">
                     
                     <div className="product">
                         <img src={i1} style={{width: "100%"}}alt="zebi"></img>
-                        <div className="text">Filtre Kair</div>
+                        <div className="text">K-air filters</div>
                         <div className="price">28€</div>
                     </div>
                     <div className="product">
                         <img src={i2} style={{width: "100%"}} alt="zebi"></img>
-                        <div className="text">Etui de transport</div>
+                        <div className="text">Transportable case </div>
                         <div className="price">30€</div>
                     </div>
                     <div className="product">
                         <img src={i3} style={{width: "100%"}} alt="zebi"></img>
-                        <div className="text">Sac de lavage</div>
+                        <div className="text">Cleaning bag</div>
                         <div className="price">5€</div>
                     </div>
 
@@ -78,10 +78,10 @@ class Produit extends Component {
             return (
                 <div>
                 <div className="produit-wrapper">
-                    Produits
+                    Products
                 </div>
                 <div>
-                    Produits
+                    Products
                 </div>
                 <div className="main-product">
 
@@ -97,16 +97,16 @@ class Produit extends Component {
                         <ReactStars count={5} value={4}size={24} color2={'#ffd700'} />
                         </div>
                         <div>
-                            <h1>199.99€</h1>
+                            <h1>499.99€</h1>
                         </div>
 
                     </div>
                     <div style={{marginBottom: "50px"}}>
-                    La nouvelle gamme de masque antipollution : léger et plus respirant.
-                    Un masque de taille unique avec un filtre intégré.
-                    Développé et fabriqué en France
+                    The new range of anti-pollution masks: light and more breathable.
+                    A one-size-fits-all mask with a built-in filter.
+                    Developed and made in France
                     </div>
-                    <Button>J'achete</Button>
+                    <Button>Buy</Button>
                     </div>
 
 
