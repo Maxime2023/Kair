@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Kair/static/css/main.5668a9bb.chunk.css",
-    "main.js": "/Kair/static/js/main.931bc55d.chunk.js",
-    "main.js.map": "/Kair/static/js/main.931bc55d.chunk.js.map",
+    "main.js": "/Kair/static/js/main.a87965a3.chunk.js",
+    "main.js.map": "/Kair/static/js/main.a87965a3.chunk.js.map",
     "runtime-main.js": "/Kair/static/js/runtime-main.616d8f3b.js",
     "runtime-main.js.map": "/Kair/static/js/runtime-main.616d8f3b.js.map",
     "static/css/2.e10332d9.chunk.css": "/Kair/static/css/2.e10332d9.chunk.css",
     "static/js/2.98ed862a.chunk.js": "/Kair/static/js/2.98ed862a.chunk.js",
     "static/js/2.98ed862a.chunk.js.map": "/Kair/static/js/2.98ed862a.chunk.js.map",
     "index.html": "/Kair/index.html",
-    "precache-manifest.6c838c6d52380435f036946e7ee6c1da.js": "/Kair/precache-manifest.6c838c6d52380435f036946e7ee6c1da.js",
+    "precache-manifest.b264b7599fa5bb51959e6207e21fc9c2.js": "/Kair/precache-manifest.b264b7599fa5bb51959e6207e21fc9c2.js",
     "service-worker.js": "/Kair/service-worker.js",
     "static/css/2.e10332d9.chunk.css.map": "/Kair/static/css/2.e10332d9.chunk.css.map",
     "static/css/main.5668a9bb.chunk.css.map": "/Kair/static/css/main.5668a9bb.chunk.css.map",
@@ -17,7 +17,7 @@
     "static/media/fbb.png": "/Kair/static/media/fbb.04de1dfc.png",
     "static/media/fill.png": "/Kair/static/media/fill.bd8fd174.png",
     "static/media/filtres.png": "/Kair/static/media/filtres.61214c7a.png",
-    "static/media/footer.png": "/Kair/static/media/footer.b6dee880.png",
+    "static/media/footer_e.png": "/Kair/static/media/footer_e.02aeae3c.png",
     "static/media/housse.png": "/Kair/static/media/housse.74238a7b.png",
     "static/media/kair logo.png": "/Kair/static/media/kair logo.4336984f.png",
     "static/media/logo page.png": "/Kair/static/media/logo page.df587466.png",
@@ -32,7 +32,7 @@
     "static/media/p8.png": "/Kair/static/media/p8.95b66b64.png",
     "static/media/p9.png": "/Kair/static/media/p9.25da6d64.png",
     "static/media/sac.png": "/Kair/static/media/sac.34a9b1ec.png",
-    "static/media/ship.png": "/Kair/static/media/ship.a1d2d864.png",
+    "static/media/ship_e.png": "/Kair/static/media/ship_e.98cb93a2.png",
     "static/media/trailer.mp4": "/Kair/static/media/trailer.eb391f65.mp4",
     "static/media/val2.png": "/Kair/static/media/val2.0c584877.png",
     "static/media/val4.png": "/Kair/static/media/val4.0be93c2c.png",
@@ -43,6 +43,6 @@
     "static/css/2.e10332d9.chunk.css",
     "static/js/2.98ed862a.chunk.js",
     "static/css/main.5668a9bb.chunk.css",
-    "static/js/main.931bc55d.chunk.js"
+    "static/js/main.a87965a3.chunk.js"
   ]
 }
